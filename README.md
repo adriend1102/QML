@@ -1,8 +1,29 @@
-# QAFIC
+![GitHub contributors](https://img.shields.io/github/contributors/adriend1102/QML)
+![GitHub](https://img.shields.io/github/license/adriend1102/QML)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?logo=Qiskit&logoColor=white)
+
+<h3 align="center">Quantum Algorithms for Image Classification</h3>
+<p align="center">
+    Bachelor's degree final computer engineering project on Quantum Machine Learning.
+    <br />
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
 
 ## Introduction
 
-This repository contains the code and documentation for the final bachelor's project in Computer Engineering at the Universitat Autònoma de Barcelona (UAB) titled "Quantum Algorithms For Image Classification" This project explores the exciting intersection of quantum computing and machine learning to tackle image classification tasks.
+This repository contains the code and documentation for the Bachelor's Degree Final Project (Catalan: *Treball de Final de Grau*; TFG) in Computer Engineering at the Autonomous University of Barcelona (Official name in Catalan: *Universitat Autònoma de Barcelona*; UAB) titled *Quantum Algorithms For Image Classification*. This project explores the exciting intersection of quantum computing and machine learning to tackle image classification tasks.
 
 ## Prerequisites
 
@@ -13,7 +34,7 @@ Before you can run the code in this repository, you will need the following prer
 - Access to a quantum computing platform or simulator (e.g., IBM Qiskit, Google Cirq).
 - Required Python libraries, which can be installed using `pip`:
 ```
-pip install qiskit qiskit-machine-learning numpy matplotlib scikit-learn
+pip install -r requirements.txt
 ```
 
 ## Project Structure
