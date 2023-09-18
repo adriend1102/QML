@@ -43,12 +43,14 @@ The project is organized as follows:
 
 - `data/`: This directory contains the image datasets used for training and testing.
 - `docs/`: Project documentation and presentation files.
+- `imgs/`: Project images and plots.
 - `models/`: Implementations of quantum and classical machine learning models.
 - `notebooks/`: Jupyter notebooks demonstrating the experiments and results.
 - `utils/`: Utility functions and helper scripts.
 - `.gitignore`: Github .gitignore file to get rid of annoying files.
 - `LICENSE.txt`: The project's license file.
 - `README.md`: This documentation file.
+- `requirements.txt`: This Python requirements text file.
 
 ## Usage
 
