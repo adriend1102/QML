@@ -1,0 +1,8 @@
+pandas
+tensorflow
+matplotlib
+scikit-learn
+qiskit
+qiskit-machine-learning
+ipython
+optuna
